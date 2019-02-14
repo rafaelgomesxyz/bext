@@ -4,5 +4,6 @@
   "main": "index.js",
   "dependencies": {
     "@browser-extension-publisher/common": "^0.0.1"
-  }
+  },
+  "gitHead": "9d448781381cee641e0c79b3a5fa2e5112838811"
 }

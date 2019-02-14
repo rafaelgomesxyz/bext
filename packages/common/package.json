@@ -1,5 +1,6 @@
 {
   "name": "@browser-extension-publisher/common",
   "version": "0.0.1",
-  "main": "index.js"
+  "main": "index.js",
+  "gitHead": "9d448781381cee641e0c79b3a5fa2e5112838811"
 }
