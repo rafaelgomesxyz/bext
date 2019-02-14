@@ -1,0 +1,7 @@
+{
+  "name": "browser-extension-publisher",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.11.1"
+  }
+}
