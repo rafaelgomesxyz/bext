@@ -1,20 +1,11 @@
-class Publisher {
-  constructor(config) {
-    if (config) {
-      this.setConfig(config);
-    }
-  }
+const BrowserExtensionTools = require(`./lib/BrowserExtensionTools.js`);
+const FetchHelper = require(`./lib/FetchHelper.js`);
+const Publisher = require(`./lib/Publisher.js`);
 
-  setConfig(config) {
-    this.config = config;
-  }
-
-  setConfigFromFile(fileName) {
-    const config = require(fileName);
-    this.setConfig(config);
-  }
-}
-
-module.exports = {
+const common = {
+  BrowserExtensionTools,
+  FetchHelper,
   Publisher
 };
+
+module.exports = common;

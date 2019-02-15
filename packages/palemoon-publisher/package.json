@@ -1,9 +1,9 @@
 {
-  "name": "@bext/common",
+  "name": "@bext/palemoon-publisher",
   "version": "0.0.2",
   "main": "index.js",
   "dependencies": {
-    "node-fetch": "^2.3.0"
+    "@bext/common": "^0.0.2"
   },
   "publishConfig": {
     "access": "public"

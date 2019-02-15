@@ -1,5 +1,5 @@
 {
-  "name": "browser-extension-publisher",
+  "name": "bext",
   "devDependencies": {
     "lerna": "^3.11.1"
   },
