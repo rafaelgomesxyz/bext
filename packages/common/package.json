@@ -1,6 +1,6 @@
 {
   "name": "@bext/common",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "main": "index.js",
   "dependencies": {
     "form-data": "^2.3.3",

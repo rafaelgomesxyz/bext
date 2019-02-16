@@ -1,9 +1,9 @@
 {
   "name": "@bext/manifest-distributor",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "main": "index.js",
   "dependencies": {
-    "@bext/common": "^0.0.2",
+    "@bext/common": "^0.0.5",
     "mdn-browser-compat-data": "^0.0.67"
   },
   "publishConfig": {
