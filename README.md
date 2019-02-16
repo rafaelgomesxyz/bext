@@ -1,1 +1,1 @@
-# browser-extension-publisher
+# Browser Extension Tools (bext)

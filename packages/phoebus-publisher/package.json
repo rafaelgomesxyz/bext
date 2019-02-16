@@ -1,5 +1,5 @@
 {
-  "name": "@bext/palemoon-publisher",
+  "name": "@bext/phoebus-publisher",
   "version": "0.0.2",
   "main": "index.js",
   "dependencies": {

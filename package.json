@@ -1,6 +1,7 @@
 {
   "name": "bext",
   "devDependencies": {
+    "jsdoc": "^3.5.5",
     "lerna": "^3.11.1"
   },
   "publishConfig": {

@@ -3,7 +3,8 @@
   "version": "0.0.2",
   "main": "index.js",
   "dependencies": {
-    "@bext/common": "^0.0.2"
+    "@bext/common": "^0.0.2",
+    "mdn-browser-compat-data": "^0.0.67"
   },
   "publishConfig": {
     "access": "public"

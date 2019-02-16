@@ -1,10 +1,10 @@
-const BrowserExtensionTools = require(`./lib/BrowserExtensionTools.js`);
 const FetchHelper = require(`./lib/FetchHelper.js`);
+const IConfigStore = require(`./lib/IConfigStore.js`);
 const Publisher = require(`./lib/Publisher.js`);
 
 const common = {
-  BrowserExtensionTools,
   FetchHelper,
+  IConfigStore,
   Publisher
 };
 
